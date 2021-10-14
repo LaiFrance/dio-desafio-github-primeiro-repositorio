@@ -15,7 +15,7 @@ Repositório criado para o Desafio de Projeto sobre Git/Github.
 
 
 # O que é o Git <h1> ![](https://upload.wikimedia.org/wikipedia/commons/archive/e/e0/20130520120408%21Git-logo.svg) 
-  #### O **Git** é um sistema open-source de controle de versão utilizado pela grande maioria dos desenvolvedores atualmente.<h4>
+  #### O **Git**  é um sistema de controle de versões distribuído, utilizado pela grande maioria dos desenvolvedores <h4>
   
    :stop_sign: **Instalação e Configuração do Git** 
   
