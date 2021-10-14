@@ -52,5 +52,6 @@ git config --global user.email seuemail@email.br
 🔹: 10. Pronto, git instalado e configurado com sucesso! :star_struck:
   
   
-
-  
+# O que é o Github? <h1> ![](https://morettic.com.br/wp2/wp-content/uploads/2017/10/GitHub-300x176.jpg)
+ :rotating_light: GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.
+  Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
